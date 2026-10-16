@@ -1,0 +1,10 @@
+{
+  "id": "colorfit-pulse",
+  "name": "Noise ColorFit Pulse series",
+  "namePrefixes": ["ColorFit Pulse"],
+  "verified": false,
+  "services": [],
+  "notes": "Starter profile. Add the custom service UUID(s) from nRF Connect to 'services', then fill in 'battery' and 'syncTime' once the byte formats are known.",
+  "battery": null,
+  "syncTime": null
+}
