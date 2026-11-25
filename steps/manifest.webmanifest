@@ -1,0 +1,17 @@
+{
+  "id": "./steps/",
+  "name": "Jus Steps",
+  "short_name": "Jus Steps",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0f1724",
+  "theme_color": "#0f1724",
+  "description": "Step counter, calories, water and weekly goals.",
+  "categories": ["health", "fitness", "lifestyle"],
+  "icons": [
+    { "src": "../icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "../icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" },
+    { "src": "../icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
